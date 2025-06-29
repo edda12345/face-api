@@ -6,7 +6,3 @@ services:
     startCommand: python app.py
     pythonVersion: 3.10.11
     plan: free
-git add render.yaml
-git commit -m "add render config"
-git push origin main
-
