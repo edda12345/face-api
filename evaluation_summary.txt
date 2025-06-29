@@ -1,0 +1,18 @@
+CLASSIFICATION REPORT
+
+              precision    recall  f1-score   support
+
+  Anastassia     0.0000    0.0000    0.0000         2
+        Edda     0.0000    0.0000    0.0000         2
+      Esther     0.0000    0.0000    0.0000         2
+    Kimberly     0.0000    0.0000    0.0000         2
+     Roshini     0.1250    1.0000    0.2222         1
+      amylea     0.0000    0.0000    0.0000         2
+
+    accuracy                         0.0909        11
+   macro avg     0.0208    0.1667    0.0370        11
+weighted avg     0.0114    0.0909    0.0202        11
+
+
+Confusion Matrix: confusion_matrix.png
+ROC Curve:       roc_curve.png
